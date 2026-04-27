@@ -1,0 +1,6 @@
+/v1/KicadProj/nyaral_v1_00/nyaral_v1_00-backups
+*.kicad_sch-bak
+/v1/Symbols
+*.lck
+v1/CubeMx/CubeMx.ioc
+v1/KicadProj/nyaral_v1_00/\#auto_saved_files\#

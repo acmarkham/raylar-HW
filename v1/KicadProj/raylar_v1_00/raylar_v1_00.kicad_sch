@@ -1,0 +1,250 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ccdf2748-57ed-4fa1-bb7e-e802526c0921")
+	(paper "A4")
+	(title_block
+		(title "Caracal Nyaral")
+		(date "2026-02-27")
+		(rev "v1.00")
+		(company "(c) Andrew Markham")
+	)
+	(lib_symbols)
+	(sheet
+		(at 1.27 -307.34)
+		(size 419.1 283.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "66bba67d-85a4-45ac-974f-8623b54e3dfc")
+		(property "Sheetname" "Sheet1"
+			(at 1.27 -308.0516 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet1.kicad_sch"
+			(at 1.27 -23.5454 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nyaral_v1_00"
+				(path "/ccdf2748-57ed-4fa1-bb7e-e802526c0921"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at -312.42 -119.38)
+		(size 284.48 203.2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9fed4550-5552-42bf-a979-d3c212d519b9")
+		(property "Sheetname" "Sheet4"
+			(at -312.42 -120.0916 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet4.kicad_sch"
+			(at -312.42 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nyaral_v1_00"
+				(path "/ccdf2748-57ed-4fa1-bb7e-e802526c0921"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 431.8 -308.61)
+		(size 306.07 283.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d49870c1-7b15-42c6-9ee7-f19ebcc4aeb0")
+		(property "Sheetname" "Sheet2"
+			(at 431.8 -309.3216 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet2.kicad_sch"
+			(at 431.8 -24.8154 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nyaral_v1_00"
+				(path "/ccdf2748-57ed-4fa1-bb7e-e802526c0921"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 2.54 320.04)
+		(size 421.64 219.71)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e8c9035d-8600-478a-b644-86a8e98df920")
+		(property "Sheetname" "Sheet3"
+			(at 2.54 319.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet3.kicad_sch"
+			(at 2.54 540.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nyaral_v1_00"
+				(path "/ccdf2748-57ed-4fa1-bb7e-e802526c0921"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 490.22 83.82)
+		(size 245.11 179.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f31e9b19-dd64-473e-8e8c-294cdecbe717")
+		(property "Sheetname" "Sheet5"
+			(at 490.22 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet5.kicad_sch"
+			(at 490.22 263.4746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nyaral_v1_00"
+				(path "/ccdf2748-57ed-4fa1-bb7e-e802526c0921"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "default.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WATCq0UAOZcXCEA1TZqRdcqiN9a4udgGCKKMZgyNHg1kjYeUWL//26gYAJTAE4AVADZvHzM
+				vNFcTL3Lq8GiJ8yZJw3WK9qbjLmiLy9psJX3l+6ZR58LAEBA8AHlP2m1USF1MR+SH6qxmUX85WsM
+				mrtbldYuzXviDxUAAcHZEYUYcbydQlYBkEsz421rn+Ynjx5EOOVU59HnS7bUsrWp/fI6EO7R/Eka
+				4bG8tbP4n2+Kv8TmmMmmTWvt2pjyL6upe2cs5pPK408QTvV7xDKPjz1mDvfDkOalr5p5lW4S+omm
+				YV5dvVHHIBHvm3SVUMElvIaJYCvb1N1uFdaZZk8dyCnCjvJ9nonQiM+iAl8YXyT8ufyxSZmbTxDH
+				1naLI1Xb1LrUy6VSDwGBAavU7bZVK7s2zMJstS4HId2DVssC4SSPSCKrDJCTgF3H+PL/5tM0zaou
+				f3CQzuEt7mK8pJhvG2rXrKJOvXOAHkjmC1avnm2Dw2mA8bRJJ+EkpYCLoKFchxiakhQUJBnGoESk
+				xKoODEQ44I4l9oJgyhyxIkLyeMSHEQ3PbX73YPdHXkcbv7boqRrf3hEp2o3hrdCEPg+Td60T6K7+
+				Apn9KX1K3KHkT/4hAqXTN1np3SyshHFZspblpsTipo9OfPOjcAgDKiNZA8yiEeMseBVa2ywvwR6w
+				AUT+GSRryWRQPjLjEQOiOZPjJUEszZ0Xo2Q2kkUFucXmHO3nRKF0TU1nUNsLLyIEREzjLV0DSpFW
+				r59CIaOpCFg5GAnSIeB53m33T9JYiwRZl56w2SCfoYTtvzl8GhaRiT4hHcDcZuPMYmFcY4OXIczy
+				Fk+KMr7omB8jK7bgSFJrMzJYkMNM8oJ5M10btKR92Etf4DmITeWuC9QY5Co=|
+			)
+			(checksum "C422AE90AAEFC1DFB05D75E607949D32")
+		)
+	)
+)

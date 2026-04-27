@@ -1,0 +1,18 @@
+v_adc_solar:: originally pa2
+v_adc_dc: originally pa3
+
+mbus_tx_stm_tx: was pd5, now pa2
+mbus_rx_stm_rx: was pa15, now pa3
+
+pa2: gps_rx_stm_tx
+pa3: gps_tx_stm_rx
+
+pb11: mbus_rx_stm_rx (need to check!)
+pd8: mbus_tx_stm_tx
+
+pa3: was mbus_an, now gps_pps exti
+pa0: was n.c. now gps_en
+pc13: was sys_main_green, now gps_rst (might need moving again)
+
+pb8: was ext2, now mic_cck0
+

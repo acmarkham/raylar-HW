@@ -6319,7 +6319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1uF 0402 16V capacitor unpolarized"
 			(at 104.14 85.09 0)
 			(effects
 				(font
@@ -6403,6 +6403,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00426"
 			(at 104.14 66.04 0)
 			(effects
 				(font
@@ -6537,7 +6555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
+		(property "Description" "DNF: Solder Jumper, 2-pole, closed/bridged"
 			(at 251.46 45.72 0)
 			(effects
 				(font
@@ -6574,6 +6592,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 251.46 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" ""
+			(at 251.46 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" ""
 			(at 251.46 35.56 0)
 			(effects
 				(font
@@ -6708,7 +6744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor 330R 0402"
 			(at 116.84 53.34 0)
 			(effects
 				(font
@@ -6780,6 +6816,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 116.84 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCR-00042"
+			(at 116.84 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4025e541-8c12-4d56-bfa7-041a1eaa1734")
 		)
@@ -6841,7 +6895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "DNF: Test Point"
 			(at 74.93 135.89 0)
 			(effects
 				(font
@@ -6878,6 +6932,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 74.93 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" ""
+			(at 74.93 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" ""
 			(at 74.93 125.73 0)
 			(effects
 				(font
@@ -7011,7 +7083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 0402 6.3V capacitor unpolarized"
 			(at 105.41 157.48 0)
 			(effects
 				(font
@@ -7103,6 +7175,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 105.41 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00294"
+			(at 105.41 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2db28c26-f3b5-4641-873d-6afa97201149")
 		)
@@ -7163,7 +7253,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor 33k 0402"
 			(at 74.93 48.26 0)
 			(effects
 				(font
@@ -7235,6 +7325,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 63.5 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCR-00086"
+			(at 63.5 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f84ad3d3-7334-4cb3-9bcf-79c075d27789")
 		)
@@ -7295,7 +7403,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor 33k 0402"
 			(at 85.09 48.26 0)
 			(effects
 				(font
@@ -7359,6 +7467,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 73.66 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 73.66 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCR-00086"
 			(at 73.66 48.26 90)
 			(effects
 				(font
@@ -7494,7 +7620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1uF 0402 16V capacitor unpolarized"
 			(at 121.92 157.48 0)
 			(effects
 				(font
@@ -7586,6 +7712,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 121.92 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00426"
+			(at 121.92 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d4f9e406-7a9d-4b81-a606-04fe7867c298")
 		)
@@ -7644,7 +7788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "0603 blue LED"
 			(at 83.82 76.2 0)
 			(effects
 				(font
@@ -7716,6 +7860,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 83.82 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCD-00046"
+			(at 83.82 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "244be9e1-7204-4ec1-9081-ee7a0eb4daf7")
 		)
@@ -7774,7 +7936,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor 2.2k 0402"
 			(at 73.66 100.33 0)
 			(effects
 				(font
@@ -7846,6 +8008,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "LCSC"
+			(at 73.66 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "C25879"
+			(at 73.66 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1482ffa4-a9b4-49b3-b531-0bcfab9fcf19")
 		)
@@ -7904,7 +8084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "0603 green LED"
 			(at 234.95 73.66 0)
 			(effects
 				(font
@@ -7976,6 +8156,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 234.95 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCD-00048"
+			(at 234.95 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "864f2d30-296c-4132-8f56-60633c578b26")
 		)
@@ -8037,7 +8235,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 0402 6.3V capacitor unpolarized"
 			(at 113.03 85.09 0)
 			(effects
 				(font
@@ -8121,6 +8319,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 113.03 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 113.03 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00294"
 			(at 113.03 66.04 0)
 			(effects
 				(font
@@ -8345,6 +8561,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "LCSC"
+			(at 190.5 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "C909689"
+			(at 190.5 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "46cba0f6-70a2-4be8-a8e3-8d7cc01f35fe")
 		)
@@ -8505,6 +8739,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "LCSC"
+			(at 30.48 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "C20619272"
+			(at 30.48 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "a2f09e7e-ca1f-44dc-a117-20fe2c45d546")
 		)
@@ -8599,7 +8851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "DNF: Test Point"
 			(at 217.17 72.39 0)
 			(effects
 				(font
@@ -8636,6 +8888,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 217.17 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" ""
+			(at 217.17 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" ""
 			(at 217.17 62.23 0)
 			(effects
 				(font
@@ -8701,7 +8971,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor 33k 0402"
 			(at 69.85 48.26 0)
 			(effects
 				(font
@@ -8773,6 +9043,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 58.42 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCR-00086"
+			(at 58.42 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "731be5d8-2a90-49ac-95a7-5caa445c5bdf")
 		)
@@ -8832,7 +9120,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
+		(property "Description" "DNF: Solder Jumper, 2-pole, closed/bridged"
 			(at 90.17 54.61 0)
 			(effects
 				(font
@@ -8869,6 +9157,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 90.17 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" ""
+			(at 90.17 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" ""
 			(at 90.17 44.45 0)
 			(effects
 				(font
@@ -9003,7 +9309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "0603 red LED"
 			(at 234.95 67.31 0)
 			(effects
 				(font
@@ -9075,6 +9381,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 234.95 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCD-00045"
+			(at 234.95 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6454b192-aa2a-45cf-ba88-39b035b68941")
 		)
@@ -9136,7 +9460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "DNF: Test Point"
 			(at 80.01 135.89 0)
 			(effects
 				(font
@@ -9173,6 +9497,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 80.01 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" ""
+			(at 80.01 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" ""
 			(at 80.01 125.73 0)
 			(effects
 				(font
@@ -9238,7 +9580,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor 33k 0402"
 			(at 64.77 48.26 0)
 			(effects
 				(font
@@ -9310,6 +9652,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 53.34 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCR-00086"
+			(at 53.34 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5077f0c8-93e4-4491-83bf-af10d01f9f58")
 		)
@@ -9368,7 +9728,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor 2.2k 0402"
 			(at 224.79 97.79 0)
 			(effects
 				(font
@@ -9432,6 +9792,24 @@
 			)
 		)
 		(property "MP" " 0402WGF2201TCE"
+			(at 224.79 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "LCSC"
+			(at 224.79 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "C25879"
 			(at 224.79 86.36 0)
 			(effects
 				(font
@@ -9629,6 +10007,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "LCSC"
+			(at 44.45 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "C42464134"
+			(at 44.45 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "20"
 			(uuid "122987df-8576-4f25-8202-4c7da7075208")
 		)
@@ -9747,7 +10143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor 2.2k 0402"
 			(at 224.79 91.44 0)
 			(effects
 				(font
@@ -9819,6 +10215,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "LCSC"
+			(at 224.79 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "C25879"
+			(at 224.79 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b4654438-9fa1-4d4d-a8a8-d296841d28d2")
 		)
@@ -9880,7 +10294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
+		(property "Description" "DNF: Solder Jumper, 2-pole, closed/bridged"
 			(at 132.08 123.19 0)
 			(effects
 				(font
@@ -9917,6 +10331,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 121.92 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" ""
+			(at 121.92 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" ""
 			(at 121.92 123.19 90)
 			(effects
 				(font
@@ -9986,7 +10418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "DNF: Test Point"
 			(at 213.36 72.39 0)
 			(effects
 				(font
@@ -10023,6 +10455,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 213.36 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" ""
+			(at 213.36 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" ""
 			(at 213.36 62.23 0)
 			(effects
 				(font
@@ -10088,7 +10538,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1uF 0402 16V capacitor unpolarized"
 			(at 113.03 157.48 0)
 			(effects
 				(font
@@ -10180,6 +10630,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 113.03 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00426"
+			(at 113.03 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3e88dc77-b9ad-4bf8-a1ef-5d698eed91c5")
 		)
@@ -10241,7 +10709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 0402 6.3V capacitor unpolarized"
 			(at 241.3 63.5 0)
 			(effects
 				(font
@@ -10333,6 +10801,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 241.3 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00294"
+			(at 241.3 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb007a1f-619e-4492-909f-086af1f80146")
 		)
@@ -10393,7 +10879,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor 33k 0402"
 			(at 80.01 48.26 0)
 			(effects
 				(font
@@ -10465,6 +10951,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 68.58 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCR-00086"
+			(at 68.58 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3144273a-65be-421c-85ad-72471c10fff2")
 		)
@@ -10526,7 +11030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 0402 6.3V capacitor unpolarized"
 			(at 95.25 157.48 0)
 			(effects
 				(font
@@ -10618,6 +11122,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 95.25 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00294"
+			(at 95.25 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7c8bc5b5-b8ab-4af2-9640-ac07e20b86ca")
 		)
@@ -10678,7 +11200,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor 33k 0402"
 			(at 91.44 48.26 0)
 			(effects
 				(font
@@ -10750,6 +11272,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 80.01 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCR-00086"
+			(at 80.01 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "be699f5c-88ee-42da-8608-826babeddda0")
 		)
@@ -10811,7 +11351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "DNF: Test Point"
 			(at 215.9 63.5 0)
 			(effects
 				(font
@@ -10848,6 +11388,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 215.9 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" ""
+			(at 215.9 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" ""
 			(at 215.9 53.34 0)
 			(effects
 				(font
@@ -10983,7 +11541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "P-Channel 25 V 460mA (Ta) 350mW (Ta) Surface Mount SOT-23-3"
 			(at 97.79 39.37 0)
 			(effects
 				(font
@@ -11118,6 +11676,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "LCSC"
+			(at 97.79 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "C5219301"
+			(at 97.79 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0434e75a-8e17-430b-ba42-2daf5757af7c")
 		)
@@ -11182,7 +11758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1uF 0402 16V capacitor unpolarized"
 			(at 245.11 63.5 0)
 			(effects
 				(font
@@ -11266,6 +11842,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 245.11 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 245.11 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00426"
 			(at 245.11 44.45 0)
 			(effects
 				(font
@@ -11403,7 +11997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor 100k 0402"
 			(at 97.79 35.56 0)
 			(effects
 				(font
@@ -11475,6 +12069,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 109.22 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCR-00098"
+			(at 109.22 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5b42ef72-54a1-4c72-be80-5c51fa0941ec")
 		)
@@ -11536,7 +12148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 0402 6.3V capacitor unpolarized"
 			(at 120.65 85.09 0)
 			(effects
 				(font
@@ -11620,6 +12232,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 120.65 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 120.65 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00294"
 			(at 120.65 66.04 0)
 			(effects
 				(font

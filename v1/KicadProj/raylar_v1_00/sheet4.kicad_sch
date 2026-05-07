@@ -4250,7 +4250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 0402 6.3V capacitor unpolarized"
 			(at 29.21 170.18 0)
 			(effects
 				(font
@@ -4341,6 +4341,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 29.21 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00294"
+			(at 29.21 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d734fd9b-2859-4434-9ffb-14bfebe5182f")
 		)
@@ -4402,7 +4420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1uF 0402 16V capacitor unpolarized"
 			(at 245.11 129.54 0)
 			(effects
 				(font
@@ -4492,6 +4510,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 245.11 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00426"
+			(at 245.11 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "892d313f-1a17-4f3d-8ad0-eeb7d42698e8")
 		)
@@ -4553,7 +4589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 0402 6.3V capacitor unpolarized"
 			(at 27.94 101.6 0)
 			(effects
 				(font
@@ -4644,6 +4680,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00294"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf15d08b-7f30-4ef6-9015-eb3520ad3f2c")
 		)
@@ -4705,7 +4759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 0402 6.3V capacitor unpolarized"
 			(at 254 74.93 0)
 			(effects
 				(font
@@ -4789,6 +4843,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 254 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 254 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00294"
 			(at 254 55.88 0)
 			(effects
 				(font
@@ -4931,6 +5003,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "LCSC"
+			(at 218.44 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "C221446 "
+			(at 218.44 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "f6b890fb-d162-47f9-bf33-18b460acb7cf")
 		)
@@ -5022,7 +5112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1uF 0402 16V capacitor unpolarized"
 			(at 236.22 129.54 0)
 			(effects
 				(font
@@ -5104,6 +5194,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 236.22 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 236.22 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00426"
 			(at 236.22 110.49 0)
 			(effects
 				(font
@@ -5244,6 +5352,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "MOUSER"
+			(at 46.99 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "726-IM69D129FV01XTMA"
+			(at 46.99 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "880db41f-e5eb-4d7d-bbe2-d8f66f51f888")
 		)
@@ -5313,7 +5439,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1uF 0402 16V capacitor unpolarized"
 			(at 33.02 123.19 0)
 			(effects
 				(font
@@ -5404,6 +5530,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 33.02 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00426"
+			(at 33.02 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a60d15f2-d156-418f-bc91-f260c3403f60")
 		)
@@ -5465,7 +5609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 0402 6.3V capacitor unpolarized"
 			(at 29.21 147.32 0)
 			(effects
 				(font
@@ -5548,6 +5692,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 29.21 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 29.21 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00294"
 			(at 29.21 128.27 0)
 			(effects
 				(font
@@ -5750,7 +5912,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor 10k 0402"
 			(at 205.74 44.45 0)
 			(effects
 				(font
@@ -5814,6 +5976,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 194.31 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 194.31 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCR-00076"
 			(at 194.31 44.45 90)
 			(effects
 				(font
@@ -5954,6 +6134,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "MOUSER"
+			(at 50.8 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "726-IM69D129FV01XTMA"
+			(at 50.8 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fa834957-193e-4882-aacf-64cea7320e06")
 		)
@@ -6024,7 +6222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1uF 0402 16V capacitor unpolarized"
 			(at 34.29 170.18 0)
 			(effects
 				(font
@@ -6107,6 +6305,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 34.29 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 34.29 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00426"
 			(at 34.29 151.13 0)
 			(effects
 				(font
@@ -6243,7 +6459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "DNF: Test Point"
 			(at 72.39 48.26 0)
 			(effects
 				(font
@@ -6280,6 +6496,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 72.39 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" ""
+			(at 72.39 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" ""
 			(at 72.39 38.1 0)
 			(effects
 				(font
@@ -6345,7 +6579,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1uF 0402 16V capacitor unpolarized"
 			(at 238.76 74.93 0)
 			(effects
 				(font
@@ -6437,6 +6671,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 238.76 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00426"
+			(at 238.76 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "977a6f5e-106d-46ce-a6d9-b0c8d530770f")
 		)
@@ -6498,7 +6750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1uF 0402 16V capacitor unpolarized"
 			(at 34.29 196.85 0)
 			(effects
 				(font
@@ -6589,6 +6841,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 34.29 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00426"
+			(at 34.29 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "104ba88a-1e93-44f3-b98e-cd9571f77bdd")
 		)
@@ -6649,7 +6919,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1uF 0402 16V capacitor unpolarized"
 			(at 246.38 74.93 0)
 			(effects
 				(font
@@ -6741,6 +7011,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 246.38 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00426"
+			(at 246.38 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "864c980a-b63c-4b7a-8575-efb79fd4b684")
 		)
@@ -6802,7 +7090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1uF 0402 16V capacitor unpolarized"
 			(at 33.02 101.6 0)
 			(effects
 				(font
@@ -6885,6 +7173,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 33.02 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 33.02 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00426"
 			(at 33.02 82.55 0)
 			(effects
 				(font
@@ -7017,6 +7323,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 50.8 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "MOUSER"
+			(at 50.8 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "726-IM69D129FV01XTMA"
 			(at 50.8 177.8 0)
 			(effects
 				(font
@@ -7166,6 +7490,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "MOUSER"
+			(at 50.8 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "726-IM69D129FV01XTMA"
+			(at 50.8 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1ea5450f-76ea-4a98-815a-6298f4f64173")
 		)
@@ -7236,7 +7578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 0402 6.3V capacitor unpolarized"
 			(at 27.94 123.19 0)
 			(effects
 				(font
@@ -7327,6 +7669,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 27.94 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00294"
+			(at 27.94 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "83e04bee-c71d-4220-8d74-965fcdc44784")
 		)
@@ -7388,7 +7748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1uF 0402 16V capacitor unpolarized"
 			(at 29.21 59.69 0)
 			(effects
 				(font
@@ -7470,6 +7830,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 29.21 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 29.21 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00426"
 			(at 29.21 40.64 0)
 			(effects
 				(font
@@ -7742,6 +8120,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "MOUSER"
+			(at 49.53 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "726-IM69D129FV01XTMA"
+			(at 49.53 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1a91b7fe-8482-4cbc-9e45-603d19dd652a")
 		)
@@ -7812,7 +8208,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "DNF: Test Point"
 			(at 69.85 78.74 0)
 			(effects
 				(font
@@ -7849,6 +8245,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 69.85 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" ""
+			(at 69.85 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" ""
 			(at 69.85 68.58 0)
 			(effects
 				(font
@@ -7982,7 +8396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 0402 6.3V capacitor unpolarized"
 			(at 24.13 59.69 0)
 			(effects
 				(font
@@ -8064,6 +8478,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 24.13 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 24.13 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00294"
 			(at 24.13 40.64 0)
 			(effects
 				(font
@@ -8266,7 +8698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor 10k 0402"
 			(at 179.07 44.45 0)
 			(effects
 				(font
@@ -8330,6 +8762,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 190.5 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 190.5 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCR-00076"
 			(at 190.5 44.45 90)
 			(effects
 				(font
@@ -8465,7 +8915,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "0.1uF 0402 16V capacitor unpolarized"
 			(at 34.29 147.32 0)
 			(effects
 				(font
@@ -8548,6 +8998,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 34.29 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 34.29 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00426"
 			(at 34.29 128.27 0)
 			(effects
 				(font
@@ -8688,6 +9156,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "MOUSER"
+			(at 50.8 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "726-IM69D129FV01XTMA"
+			(at 50.8 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b1b6f094-c5d4-4965-b5ea-72b8753b7f8d")
 		)
@@ -8758,7 +9244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "4.7uF 0402 6.3V capacitor unpolarized"
 			(at 29.21 196.85 0)
 			(effects
 				(font
@@ -8849,6 +9335,24 @@
 				(hide yes)
 			)
 		)
+		(property "Q_SUPPLIER" "QUICK-TECK"
+			(at 29.21 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "QCC-00294"
+			(at 29.21 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b46fbf01-408f-4320-bd7c-0dc524571120")
 		)
@@ -8910,7 +9414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Test Point"
+		(property "Description" "DNF: Test Point"
 			(at 67.31 48.26 0)
 			(effects
 				(font
@@ -8947,6 +9451,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 67.31 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" ""
+			(at 67.31 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" ""
 			(at 67.31 38.1 0)
 			(effects
 				(font
@@ -9077,6 +9599,24 @@
 			)
 		)
 		(property "ALTERNATES" ""
+			(at 218.44 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER" "LCSC"
+			(at 218.44 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Q_SUPPLIER_PN" "C919695"
 			(at 218.44 102.87 0)
 			(effects
 				(font

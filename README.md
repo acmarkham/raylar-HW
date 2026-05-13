@@ -23,11 +23,11 @@ This is the main repository for the bioacoustic platform Caracal Raylar. This is
 
 ## PCB
 
-![Top](v1\KicadProj\raylar_v1_00\exports\board_top.png)
+![Top](v1/KicadProj/raylar_v1_00/exports/board_top.png)
 
-![Bottom](v1\KicadProj\raylar_v1_00\exports\board_bottom.png)
+![Bottom](v1/KicadProj/raylar_v1_00/exports/board_bottom.png)
 
-![Render](v1\KicadProj\raylar_v1_00\exports\board_spin.gif)
+![Render](v1/KicadProj/raylar_v1_00/exports/board_spin.gif)
 
 
 
